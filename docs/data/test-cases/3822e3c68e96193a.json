@@ -1,0 +1,52 @@
+{
+  "uid" : "3822e3c68e96193a",
+  "name" : "should login with valid credentials and check if user logged in",
+  "fullName" : "github.com page.should login with valid credentials and check if user logged in",
+  "historyId" : "a9a772a9ae713dc50f05a34c087368eb",
+  "time" : {
+    "start" : 1641332453437,
+    "stop" : 1641332453437,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "github.com page"
+  }, {
+    "name" : "testClass",
+    "value" : "github.com page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should login with valid credentials and check if user logged in"
+  }, {
+    "name" : "package",
+    "value" : "github.com page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3822e3c68e96193a.json",
+  "parameterValues" : [ ]
+}

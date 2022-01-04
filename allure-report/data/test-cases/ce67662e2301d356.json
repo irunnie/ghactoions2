@@ -1,0 +1,52 @@
+{
+  "uid" : "ce67662e2301d356",
+  "name" : "",
+  "fullName" : "github.com page.",
+  "historyId" : "ea159862cbde0ba6b1e1deb0f6212c02",
+  "time" : {
+    "start" : 1641332453681,
+    "stop" : 1641332453681,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "github.com page"
+  }, {
+    "name" : "testClass",
+    "value" : "github.com page"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "github.com page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ce67662e2301d356.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,62 @@
+{
+  "uid" : "ccf9b163adbff90d",
+  "name" : "should log open careers positions",
+  "fullName" : "github.com page.should log open careers positions",
+  "historyId" : "852acebb28b09158e0c30643df51ef51",
+  "time" : {
+    "start" : 1641332452528,
+    "stop" : 1641332466702,
+    "duration" : 14174
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "github.com page"
+  }, {
+    "name" : "testClass",
+    "value" : "github.com page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should log open careers positions"
+  }, {
+    "name" : "package",
+    "value" : "github.com page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.110"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ccf9b163adbff90d.json",
+  "parameterValues" : [ "chrome-96.0.4664.110" ]
+}

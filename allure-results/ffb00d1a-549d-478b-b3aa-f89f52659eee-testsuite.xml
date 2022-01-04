@@ -1,0 +1,55 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1641332452428' stop='1641332452436'>
+    <name>github.com page</name>
+    <title>github.com page</title>
+    <test-cases>
+        <test-case start='1641332452432' status='pending' stop='1641332452433'>
+            <name>should input random email, click sign up, and and make sure user got redirected</name>
+            <title>should input random email, click sign up, and and make sure user got redirected</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1641332452433' status='pending' stop='1641332452433'>
+            <name>should try to register a new user and check if verify label is displayed</name>
+            <title>should try to register a new user and check if verify label is displayed</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1641332452434' status='pending' stop='1641332452434'>
+            <name>should go to free plan and fill registration inputs</name>
+            <title>should go to free plan and fill registration inputs</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1641332452434' status='pending' stop='1641332452434'>
+            <name>should try to register enterprise plans</name>
+            <title>should try to register enterprise plans</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,52 @@
+{
+  "uid" : "949c3b7b15dc1d66",
+  "name" : "should click explore github, topic, then check if \"Topic\" header is displayed",
+  "fullName" : "github.com page.should click explore github, topic, then check if \"Topic\" header is displayed",
+  "historyId" : "6fc8e9219028fe4318f83061358f27ea",
+  "time" : {
+    "start" : 1641332453681,
+    "stop" : 1641332453681,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "github.com page"
+  }, {
+    "name" : "testClass",
+    "value" : "github.com page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should click explore github, topic, then check if \"Topic\" header is displayed"
+  }, {
+    "name" : "package",
+    "value" : "github.com page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "949c3b7b15dc1d66.json",
+  "parameterValues" : [ ]
+}

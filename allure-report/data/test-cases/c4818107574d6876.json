@@ -1,0 +1,52 @@
+{
+  "uid" : "c4818107574d6876",
+  "name" : "should go to free plan and fill registration inputs",
+  "fullName" : "github.com page.should go to free plan and fill registration inputs",
+  "historyId" : "df9df6c7f0a242342016e9db1f40beb6",
+  "time" : {
+    "start" : 1641332452434,
+    "stop" : 1641332452434,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "github.com page"
+  }, {
+    "name" : "testClass",
+    "value" : "github.com page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should go to free plan and fill registration inputs"
+  }, {
+    "name" : "package",
+    "value" : "github.com page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c4818107574d6876.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,52 @@
+{
+  "uid" : "728254eb78d78db3",
+  "name" : "should try to register a new user and check if verify label is displayed",
+  "fullName" : "github.com page.should try to register a new user and check if verify label is displayed",
+  "historyId" : "d32b80a532175a21e17352e13e7debe9",
+  "time" : {
+    "start" : 1641332452433,
+    "stop" : 1641332452433,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "github.com page"
+  }, {
+    "name" : "testClass",
+    "value" : "github.com page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should try to register a new user and check if verify label is displayed"
+  }, {
+    "name" : "package",
+    "value" : "github.com page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "728254eb78d78db3.json",
+  "parameterValues" : [ ]
+}

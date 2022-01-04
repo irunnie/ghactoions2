@@ -1,0 +1,52 @@
+{
+  "uid" : "9bd50c0054f80634",
+  "name" : "should hover some elements and check if they are displayed",
+  "fullName" : "github.com page.should hover some elements and check if they are displayed",
+  "historyId" : "b0cfb9a4d677029c5f4883054b5c0d80",
+  "time" : {
+    "start" : 1641332453680,
+    "stop" : 1641332453680,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "github.com page"
+  }, {
+    "name" : "testClass",
+    "value" : "github.com page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should hover some elements and check if they are displayed"
+  }, {
+    "name" : "package",
+    "value" : "github.com page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9bd50c0054f80634.json",
+  "parameterValues" : [ ]
+}

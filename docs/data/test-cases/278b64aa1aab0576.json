@@ -1,0 +1,52 @@
+{
+  "uid" : "278b64aa1aab0576",
+  "name" : "should search for \"webdriverio\", click \"TypeScript\", then click on 1st result and check url",
+  "fullName" : "github.com page.should search for \"webdriverio\", click \"TypeScript\", then click on 1st result and check url",
+  "historyId" : "2ad876571f42aa06438d9c8111584ff6",
+  "time" : {
+    "start" : 1641332453301,
+    "stop" : 1641332453302,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "github.com page"
+  }, {
+    "name" : "testClass",
+    "value" : "github.com page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should search for \"webdriverio\", click \"TypeScript\", then click on 1st result and check url"
+  }, {
+    "name" : "package",
+    "value" : "github.com page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "278b64aa1aab0576.json",
+  "parameterValues" : [ ]
+}

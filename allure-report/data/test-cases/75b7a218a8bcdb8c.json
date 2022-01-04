@@ -1,0 +1,52 @@
+{
+  "uid" : "75b7a218a8bcdb8c",
+  "name" : "should input random email, click sign up, and and make sure user got redirected",
+  "fullName" : "github.com page.should input random email, click sign up, and and make sure user got redirected",
+  "historyId" : "a43574314cd105f160a750c4961278df",
+  "time" : {
+    "start" : 1641332452432,
+    "stop" : 1641332452433,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "github.com page"
+  }, {
+    "name" : "testClass",
+    "value" : "github.com page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should input random email, click sign up, and and make sure user got redirected"
+  }, {
+    "name" : "package",
+    "value" : "github.com page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "75b7a218a8bcdb8c.json",
+  "parameterValues" : [ ]
+}

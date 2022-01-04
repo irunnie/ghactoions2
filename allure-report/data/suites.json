@@ -1,0 +1,179 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "github.com page",
+    "children" : [ {
+      "name" : "should input random email, click sign up, and and make sure user got redirected",
+      "uid" : "75b7a218a8bcdb8c",
+      "parentUid" : "287ae1c5bf3d53b81d15efcd5a2d546c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1641332452432,
+        "stop" : 1641332452433,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "should try to register a new user and check if verify label is displayed",
+      "uid" : "728254eb78d78db3",
+      "parentUid" : "287ae1c5bf3d53b81d15efcd5a2d546c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1641332452433,
+        "stop" : 1641332452433,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "should try to register enterprise plans",
+      "uid" : "e6e9c0d46d8f51e5",
+      "parentUid" : "287ae1c5bf3d53b81d15efcd5a2d546c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1641332452434,
+        "stop" : 1641332452434,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "should go to free plan and fill registration inputs",
+      "uid" : "c4818107574d6876",
+      "parentUid" : "287ae1c5bf3d53b81d15efcd5a2d546c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1641332452434,
+        "stop" : 1641332452434,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "should log open careers positions",
+      "uid" : "ccf9b163adbff90d",
+      "parentUid" : "287ae1c5bf3d53b81d15efcd5a2d546c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641332452528,
+        "stop" : 1641332466702,
+        "duration" : 14174
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-96.0.4664.110" ]
+    }, {
+      "name" : "should search for \"webdriverio\", click \"TypeScript\", then click on 1st result and check url",
+      "uid" : "278b64aa1aab0576",
+      "parentUid" : "287ae1c5bf3d53b81d15efcd5a2d546c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1641332453301,
+        "stop" : 1641332453302,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "should login with valid credentials and check if user logged in",
+      "uid" : "3822e3c68e96193a",
+      "parentUid" : "287ae1c5bf3d53b81d15efcd5a2d546c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1641332453437,
+        "stop" : 1641332453437,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "should hover some elements and check if they are displayed",
+      "uid" : "9bd50c0054f80634",
+      "parentUid" : "287ae1c5bf3d53b81d15efcd5a2d546c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1641332453680,
+        "stop" : 1641332453680,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "should click explore github, topic, then check if \"Topic\" header is displayed",
+      "uid" : "949c3b7b15dc1d66",
+      "parentUid" : "287ae1c5bf3d53b81d15efcd5a2d546c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1641332453681,
+        "stop" : 1641332453681,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "",
+      "uid" : "ce67662e2301d356",
+      "parentUid" : "287ae1c5bf3d53b81d15efcd5a2d546c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1641332453681,
+        "stop" : 1641332453681,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "287ae1c5bf3d53b81d15efcd5a2d546c"
+  } ]
+}

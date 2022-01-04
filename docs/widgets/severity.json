@@ -1,0 +1,101 @@
+[ {
+  "uid" : "c4818107574d6876",
+  "name" : "should go to free plan and fill registration inputs",
+  "time" : {
+    "start" : 1641332452434,
+    "stop" : 1641332452434,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "75b7a218a8bcdb8c",
+  "name" : "should input random email, click sign up, and and make sure user got redirected",
+  "time" : {
+    "start" : 1641332452432,
+    "stop" : 1641332452433,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "e6e9c0d46d8f51e5",
+  "name" : "should try to register enterprise plans",
+  "time" : {
+    "start" : 1641332452434,
+    "stop" : 1641332452434,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "ccf9b163adbff90d",
+  "name" : "should log open careers positions",
+  "time" : {
+    "start" : 1641332452528,
+    "stop" : 1641332466702,
+    "duration" : 14174
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9bd50c0054f80634",
+  "name" : "should hover some elements and check if they are displayed",
+  "time" : {
+    "start" : 1641332453680,
+    "stop" : 1641332453680,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "ce67662e2301d356",
+  "name" : "",
+  "time" : {
+    "start" : 1641332453681,
+    "stop" : 1641332453681,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "728254eb78d78db3",
+  "name" : "should try to register a new user and check if verify label is displayed",
+  "time" : {
+    "start" : 1641332452433,
+    "stop" : 1641332452433,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "949c3b7b15dc1d66",
+  "name" : "should click explore github, topic, then check if \"Topic\" header is displayed",
+  "time" : {
+    "start" : 1641332453681,
+    "stop" : 1641332453681,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "3822e3c68e96193a",
+  "name" : "should login with valid credentials and check if user logged in",
+  "time" : {
+    "start" : 1641332453437,
+    "stop" : 1641332453437,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "278b64aa1aab0576",
+  "name" : "should search for \"webdriverio\", click \"TypeScript\", then click on 1st result and check url",
+  "time" : {
+    "start" : 1641332453301,
+    "stop" : 1641332453302,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+} ]
