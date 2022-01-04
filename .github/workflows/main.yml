@@ -22,11 +22,5 @@ jobs:
       - name: Generate Report
         if: always()
         run: npm run allure:generate # Name of the allure generate script
-        with:
-          source-directory: 'docs'
-          destination-github-username: 'irunnie' # Your username
-          destination-repository-name: 'ghactoions2' # Name of your repo
-          user-email: irunne@gmail.com # Your email
-          target-branch: main
       env:
           API_TOKEN_GITHUB: ${{ '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' }} # Instruction where to get token is below
